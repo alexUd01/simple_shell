@@ -6,14 +6,17 @@
 > git clone https://github.com/alexUd01/simple_shell.git
 `
 * After cloning the repository, change your current working directory to the just cloned directory and compile the source files using the following commands.
-> `alex@Xandex-PC-[~]`
-> `-$ cd simple_shell`
->
-> `alex@Xandex-PC-[~/simple_shell]`
-> `-$ gcc *.c -o hsh`
->
-> `alex@Xandex-PC-[~/simple_shell]
 
+``` 
+> alex@Xandex-PC-[~]
+> -$ cd simple_shell
+>
+> alex@Xandex-PC-[~/simple_shell]
+> -$ gcc *.c -o hsh
+>
+> alex@Xandex-PC-[~/simple_shell]
+
+```
 
 ### 2. Usage
 * To run simply type ./hsh
