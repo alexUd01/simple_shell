@@ -26,6 +26,6 @@
 * To exit just type `exit` or hit 'Ctrl+D'.
 ## Unsuported features
 * The following features have not yet been implemented
-  - 1. Shell I/O Redirection
-  - 2. Piping
+  1. Shell I/O Redirection
+  2. Piping
 * and some other features.
