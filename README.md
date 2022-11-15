@@ -17,7 +17,8 @@
 > -$ gcc *.c -o hsh
 >
 > (alex@Xandex-PC)-[~/simple_shell]
-> -$ ```
+> -$
+```
 
 
 ### 2. Usage
@@ -27,7 +28,10 @@
 > -$ ./hsh
 > $
 ```
+
 * To exit just type `exit` or hit 'Ctrl+D'.
+
+
 ## Unsuported features
 * The following features have not yet been implemented
   1. Shell I/O Redirection
