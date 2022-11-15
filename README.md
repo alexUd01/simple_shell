@@ -7,7 +7,7 @@
 `
 * After cloning the repository, change your current working directory to the just cloned directory and compile the source files using the following commands.
 
-``` 
+> ```
 > alex@Xandex-PC-[~]
 > -$ cd simple_shell
 >
@@ -15,15 +15,14 @@
 > -$ gcc *.c -o hsh
 >
 > alex@Xandex-PC-[~/simple_shell]
-
-```
+> ```
 
 ### 2. Usage
 * To run simply type ./hsh
-```
+> ```
 > ./hsh
 > $
-```
+> ```
 * To exit just type `exit` or hit 'Ctrl+D'.
 ## Unsuported features
 * The following features have not yet been implemented
