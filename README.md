@@ -18,7 +18,7 @@
 >
 > (alex@Xandex-PC)-[~/simple_shell]
 > -$
- ```
+> ```
 
 
 ### 2. Usage
@@ -27,7 +27,7 @@
 > (alex@Xandex-PC)-[~/simple_shell]
 > -$ ./hsh
 > $
- ```
+> ```
 
 * To exit just type `exit` or hit 'Ctrl+D'.
 
