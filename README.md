@@ -2,7 +2,7 @@
 ## Compilation and Usage
 ### 1. Compilation
 * First clone the repository.
-`
+> `
 > git clone https://github.com/alexUd01/simple_shell.git
 `
 * After cloning the repository, change your current working directory to the just cloned directory and compile the source files using the following commands.
