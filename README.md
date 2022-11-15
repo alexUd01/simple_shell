@@ -16,7 +16,7 @@
 >
 > (alex@Xandex-PC)-[~/simple_shell]
 > -$
-> ```
+```
 
 ### 2. Usage
 * To run simply type ./hsh
@@ -24,7 +24,7 @@
 > (alex@Xandex-PC)-[~/simple_shell]
 > -$ ./hsh
 > $
-> ```
+```
 * To exit just type `exit` or hit 'Ctrl+D'.
 ## Unsuported features
 * The following features have not yet been implemented
