@@ -1,5 +1,7 @@
 # A BASIC LINUX INTERPRETER
+
 ## Compilation and Usage
+
 ### 1. Compilation
 * First clone the repository.
 > `
@@ -15,8 +17,8 @@
 > -$ gcc *.c -o hsh
 >
 > (alex@Xandex-PC)-[~/simple_shell]
-> -$
-```
+> -$ ```
+
 
 ### 2. Usage
 * To run simply type ./hsh
