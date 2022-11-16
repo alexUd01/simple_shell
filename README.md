@@ -8,6 +8,7 @@
 > git clone https://<YOUR_PAT>@github.com/alexUd01/simple_shell.git
 `
 * After cloning the repository, change your current working directory to the just cloned directory and compile the source files using the following commands.
+did just that
 
 > ```
 > (alex@Xandex-PC)-[~]
