@@ -5,7 +5,7 @@
 ### 1. Compilation
 * First clone the repository.
 > `
-> git clone https://github.com/alexUd01/simple_shell.git
+> git clone https://<YOUR_PAT>@github.com/alexUd01/simple_shell.git
 `
 * After cloning the repository, change your current working directory to the just cloned directory and compile the source files using the following commands.
 
@@ -37,3 +37,10 @@
   1. Shell I/O Redirection
   2. Piping
 * and some other features.
+
+# For Contributors
+* To push back to the repo do the following
+```
+(alex@Xandex-PC)-[~/simple_shell]
+-$ git push -u origin master
+```
